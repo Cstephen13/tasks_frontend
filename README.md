@@ -27,7 +27,7 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 cd todoProject
-git clone 
+git clone https://github.com/Cstephen13/tasks_frontend.git
 cd tasks_frontend
 ```
 ```bash
